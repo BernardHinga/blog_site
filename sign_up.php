@@ -21,7 +21,7 @@
 <body>
     <div class="containers">
         <div class="container-fluid">
-            <form action="#" method="POST" class="sign-up">
+            <form action="includes/login.inc.php" method="POST" class="sign-up">
                 <p>First name<input type="text" name="Fname" placeholder="FirstName"></p>
                 <p>Second name<input type="text" name="Sname" placeholder="SecondName"></p>
                 <p>Email<input type="email" name="email" placeholder="Email"></p>
